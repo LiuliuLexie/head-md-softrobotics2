@@ -780,3 +780,14 @@ text:
 Coneics is a collection of soft, cone-shaped robots designed to inspire creativity and interaction. These tactile objects respond dynamically to various human actions such as tapping, squeezing, and flipping. Intended for curious individuals in domestic spaces, Coneics encourage users to explore new meanings and functions by engaging in playful and unexpected ways.
 
 Rooted in the concept of unintentional design, these robots thrive on interpretation and innovation, evolving their purpose through user interaction. By inviting secondary production and storytelling, Coneics transform everyday moments into opportunities for personal expression and co-creation.
+
+todo:
+- [x] 回家ipad charge
+- [ ] electronics, 再焊一个有ball switch的motion, 一个motion,然后检查一下led - led not working???
+- [ ] network
+- [x] clean up and installation set
+- [ ] presentation preparation
+
+presentation:
+- mention the network
+- mention possibilities and flexibility
