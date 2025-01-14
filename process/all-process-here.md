@@ -769,4 +769,14 @@ Indesign:
 - info - printed at least 300
 - link -> relink/update link
 
-material?
+[material?](https://catrionajeffries.com/artists/liz-magor/works/liz-magor-all-the-names-iii-2014)
+
+## 2025-01-14
+[network](https://randomnerdtutorials.com/esp8266-nodemcu-firebase-realtime-database/)
+
+documentation text refer, [lego](https://www.lego.com/en-us/aboutus/lego-group/the-lego-brand)
+
+text:
+Coneics is a collection of soft, cone-shaped robots designed to inspire creativity and interaction. These tactile objects respond dynamically to various human actions such as tapping, squeezing, and flipping. Intended for curious individuals in domestic spaces, Coneics encourage users to explore new meanings and functions by engaging in playful and unexpected ways.
+
+Rooted in the concept of unintentional design, these robots thrive on interpretation and innovation, evolving their purpose through user interaction. By inviting secondary production and storytelling, Coneics transform everyday moments into opportunities for personal expression and co-creation.
