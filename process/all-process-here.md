@@ -795,3 +795,23 @@ presentation pdf location:
 **Comments from AM & DES**
 - the necessity network, module design
 - Add the comments/user journey and network scenario to the presentation
+
+## 2025-01-19
+2nd version of presentation pdf, add the user journey
+> 2 250119_HEAD-MD1_Soft-Robots_Liuliu-Zhu_Coneics.pdf
+
+### A pack for video shooting for Peter (cuz i'll not be there TT):
+electronics, at least 4 working(2light,2motion):
+- 2 light cones arduino RGB LED working in real
+- 3 hollow cones
+- 4 well printed 3D support part
+- a lot of hollow cones
+- vibration motor, connect, arduino board, 2个临时连的电路和一包vibration motor
+- power bank? and plug
+
+storyboard:
+- redraw with Peter, 22nd, Monday
+
+reference:
+- print the review page and shape research
+- send pdf to Peter
